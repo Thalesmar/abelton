@@ -1,0 +1,10 @@
+/your-project-folder
+├── index.html          ✅ Main HTML file
+├── style.css           ✅ Main CSS file
+├── index.js            ✅ Optional JS logic (even empty is fine)
+├── /assets             ✅ For general assets like backgrounds
+├── /icons              ✅ For social media icons, etc.
+├── /img                ✅ For content images
+├── /js                 ✅ Optional — could be used for organizing JS files
+├── /logo (optional)    ✅ Looks like you're storing a logo there
+
